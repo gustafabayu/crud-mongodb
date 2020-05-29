@@ -53,7 +53,7 @@
                             <label for="exampleInputPassword1">Password</label>
                             <input type="password" id="exampleInputPassword1">
                             <i class="ti-lock"></i>
-                            <div class="text-danger"></div>
+                            <span class="text-danger"></span>
                         </div>
                         <div class="row mb-4 rmber-area">
                             <div class="col-6">
@@ -88,7 +88,7 @@
     <script src="<?php echo base_url(); ?>assets/js/metisMenu.min.js"></script>
     <script src="<?php echo base_url(); ?>assets/js/jquery.slimscroll.min.js"></script>
     <script src="<?php echo base_url(); ?>assets/js/jquery.slicknav.min.js"></script>
-    
+
     <!-- others plugins -->
     <script src="<?php echo base_url(); ?>assets/js/plugins.js"></script>
     <script src="<?php echo base_url(); ?>assets/js/scripts.js"></script>
